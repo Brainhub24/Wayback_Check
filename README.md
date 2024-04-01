@@ -1,9 +1,14 @@
 # Archive.org - Wayback Check
 
-[![Banner](https://github.com/Brainhub24/Wayback_Check/blob/main/Screenshot_HTB_Wayback_Check-1.png?raw=true)](https://url.webservice.digital/HackTheBox)
-
 ## Description
 Archive.org Status Checker is a userscript that checks if the current website is already present on archive.org. It provides users with a quick status update, indicating whether the website is archived or not. If the website is not archived, it offers instructions on how to proceed.
+
+## Screenshots
+### A.) The Website you visit is archived @archive.org
+[![Banner](https://github.com/Brainhub24/Wayback_Check/blob/main/Screenshot_HTB_Wayback_Check-1.png?raw=true)](https://url.webservice.digital/HackTheBox)
+
+### B.) The Website you visit is not archived yet @archive.org
+[![Banner](https://github.com/Brainhub24/Wayback_Check/blob/main/Screenshot_HTB_Wayback_Check-0.png?raw=true)](https://url.webservice.digital/HackTheBox)
 
 ## Features
 - Automatically checks if the current website is archived on archive.org.
